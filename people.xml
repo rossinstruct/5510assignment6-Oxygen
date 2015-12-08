@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<People>
+<Person>
+ <Name>George H.W. Bush</Name>
+ <Description>George Bush was a late 20th century politician who was elected as President of the United States.</Description>
+</Person>
+<Person>
+ <Name>Winston Churchill</Name>
+ <Description>Winston Churchill was a mid 20th Century British politician who became famous as Prime Minister during the Second World War.</Description>
+</Person>
+<Person>
+ <Name>John F. Kennedy</Name>
+ <Description>JFK, as he was affectionately known, was a United States President who was assassinated in Dallas, Texas.</Description>
+</Person>
+</People>
